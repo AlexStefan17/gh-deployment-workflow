@@ -42,6 +42,8 @@ To manually deploy:
 3. Click **Run workflow** to trigger deployment.
 
 ## Custom DNS
+- URL project Basic DNS Setup: https://roadmap.sh/projects/basic-dns
+
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 - 185.199.108.153
 - 185.199.109.153
